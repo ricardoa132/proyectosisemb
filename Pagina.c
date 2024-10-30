@@ -4,7 +4,7 @@
     const char* password = "gustavo cerati";
     
     WiFiServer server(80);
-    const char* externalURL = "https://tu-usuario.github.io/mi-servidor-web"; // URL de tu GitHub Pages
+    const char* externalURL = "https://ricardoa132.github.io/proyectosisemb/"; // URL de tu GitHub Pages
     
     void setup() {
       Serial.begin(115200);
